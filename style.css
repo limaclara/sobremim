@@ -109,6 +109,17 @@ nav a:hover {
     font-size: 100px;
 }
 
+.img {
+    width: 250px;
+    height: 250px;
+    background-color: #e3d8fa;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+}
+
 /* SOBRE */
 
 .sobre {
